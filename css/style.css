@@ -182,6 +182,7 @@ h1, h2, h3 { font-family: var(--head); font-weight: 600; line-height: 1.15; lett
 .contact h2 { font-size: clamp(1.8rem, 4vw, 2.8rem); margin-bottom: 16px; }
 .contact p { color: var(--muted); margin-bottom: 32px; }
 .contact .btns { justify-content: center; }
+.contact .contact-mail { margin: 20px 0 0; font-size: 0.92rem; color: var(--muted); user-select: all; }
 
 /* Kolase tambahan halaman About */
 .bento > a { position: relative; border-radius: 14px; overflow: hidden; background: var(--surface); display: block; }
