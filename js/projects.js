@@ -194,7 +194,7 @@ const PROJECTS = [
     role: "UI/UX & front-end",
     platform: "Web, responsif",
     stack: ["Figma", "HTML", "CSS", "JavaScript"],
-    links: { live: "https://binaralifpra.github.io/RutePahlawan/", repo: "https://github.com/binaralifpra/RutePahlawan" },
+    links: { live: "https://binaralifpra.github.io/RutePahlawan/", repo: "https://github.com/binaralifpra/RutePahlawan", figma: "https://www.figma.com/proto/nTVPL2HFLlJvqN6cHTKR14/MyWeb---Runner-Surabaya?node-id=3-4&p=f&t=TiL6eSv9WeDRTL0b-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A4" },
     highlights: [
       { value: "5", label: "halaman: Home, Event, Performance, Track, Kit" },
       { value: "9", label: "rute lari di Surabaya" },

@@ -6,14 +6,14 @@ Website portofolio UI/UX dan web development.
 
 ## Proyek
 
-| Proyek | Website | Kode |
-|---|---|---|
-| FitHome | [fit-home-sable.vercel.app](https://fit-home-sable.vercel.app/) | [FitHome](https://github.com/binaralifpra/FitHome) |
-| Talkuno | [talkuno-dc6o.vercel.app](https://talkuno-dc6o.vercel.app/) | [talkuno](https://github.com/binaralifpra/talkuno) |
-| AI-SPIKENG | [binaralifpra.github.io/AI-SPIKENG](https://binaralifpra.github.io/AI-SPIKENG/) | [AI-SPIKENG](https://github.com/binaralifpra/AI-SPIKENG) |
-| CHIBBO | [binaralifpra.github.io/CHIBBO](https://binaralifpra.github.io/CHIBBO/) | [CHIBBO](https://github.com/binaralifpra/CHIBBO) |
-| Retipma | [binaralifpra.github.io/Retipma](https://binaralifpra.github.io/Retipma/) | [Retipma](https://github.com/binaralifpra/Retipma) |
-| Rute Pahlawan | [binaralifpra.github.io/RutePahlawan](https://binaralifpra.github.io/RutePahlawan/) | [RutePahlawan](https://github.com/binaralifpra/RutePahlawan) |
+| Proyek | Website | Kode | Desain |
+|---|---|---|---|
+| FitHome | [fit-home-sable.vercel.app](https://fit-home-sable.vercel.app/) | [FitHome](https://github.com/binaralifpra/FitHome) | |
+| Talkuno | [talkuno-dc6o.vercel.app](https://talkuno-dc6o.vercel.app/) | [talkuno](https://github.com/binaralifpra/talkuno) | |
+| AI-SPIKENG | [binaralifpra.github.io/AI-SPIKENG](https://binaralifpra.github.io/AI-SPIKENG/) | [AI-SPIKENG](https://github.com/binaralifpra/AI-SPIKENG) | |
+| CHIBBO | [binaralifpra.github.io/CHIBBO](https://binaralifpra.github.io/CHIBBO/) | [CHIBBO](https://github.com/binaralifpra/CHIBBO) | |
+| Retipma | [binaralifpra.github.io/Retipma](https://binaralifpra.github.io/Retipma/) | [Retipma](https://github.com/binaralifpra/Retipma) | |
+| Rute Pahlawan | [binaralifpra.github.io/RutePahlawan](https://binaralifpra.github.io/RutePahlawan/) | [RutePahlawan](https://github.com/binaralifpra/RutePahlawan) | [Figma prototype](https://www.figma.com/proto/nTVPL2HFLlJvqN6cHTKR14/MyWeb---Runner-Surabaya?node-id=3-4&p=f&t=TiL6eSv9WeDRTL0b-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A4) |
 
 ## Struktur
 
