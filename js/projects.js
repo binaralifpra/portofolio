@@ -221,4 +221,42 @@ const PROJECTS = [
       { title: "Lisensi gambar yang jelas", text: "Foto berasal dari sumber berlisensi bebas dan dicatat di halaman kredit." },
     ],
   },
+  {
+    id: "milky-wilky",
+    type: "figma",
+    kind: "Figma ke Web",
+    title: "Milky Wilky",
+    tagline: "Website video anak seperti YouTube Kids: kartun, lagu, dongeng, dan pelajaran pilihan, lengkap dengan mini games.",
+    year: "2026",
+    role: "UI/UX & front-end",
+    platform: "Web, responsif",
+    stack: ["Figma", "HTML", "CSS", "JavaScript", "YouTube Embed"],
+    links: { live: "https://binaralifpra.github.io/MilkyWilky/", repo: "https://github.com/binaralifpra/MilkyWilky", figma: "https://www.figma.com/proto/V9D3dfGggWe2jFiDvkLF0K/MilkyWilky-Grid?node-id=22-67&p=f&t=PjtbARYlvaP2XbUc-0&scaling=contain&content-scaling=fixed&page-id=0%3A1" },
+    highlights: [
+      { value: "47", label: "video pilihan dalam 4 kategori" },
+      { value: "3", label: "mini game dengan level yang makin sulit" },
+      { value: "0", label: "API key yang dibutuhkan" },
+    ],
+    context: [
+      "Membiarkan anak menonton YouTube sendirian berisiko: satu video bisa berujung ke rekomendasi yang tidak cocok untuk usianya.",
+      "Milky Wilky hanya memutar video yang sudah dipilih, lalu memberi selingan mini game agar anak tidak terus-menerus menatap video.",
+    ],
+    problems: [
+      { title: "Rekomendasi tak terkendali", text: "Video berikutnya di YouTube biasa ditentukan algoritma, bukan orang tua." },
+      { title: "Antarmuka untuk orang dewasa", text: "Anak yang belum lancar membaca kesulitan memakai menu berbasis teks." },
+      { title: "Hanya menonton", text: "Tanpa kegiatan lain, waktu layar anak habis untuk menonton saja." },
+    ],
+    features: [
+      { img: "lagu.jpg", title: "Kategori dengan ikon besar", text: "Kartun, lagu anak, cerita, dan pelajaran dipilih lewat ikon, sehingga anak yang belum bisa membaca tetap bisa menjelajah sendiri." },
+      { img: "games.jpg", title: "Mini games sebagai selingan", text: "Tiga game ringan untuk melatih ketelitian dan daya ingat, masing-masing dengan level dan tiga bantuan kaca pembesar." },
+      { img: "perbedaan.jpg", title: "Cari Perbedaan", text: "Lima perbedaan pada gambar peternakan yang posisinya diacak setiap level, jadi permainan tidak pernah sama." },
+      { img: "kelinci.jpg", title: "Temukan Kelinci", text: "Gelas diacak makin cepat seiring naiknya level, dan anak menebak di gelas mana kelinci bersembunyi." },
+      { img: "memori.jpg", title: "Memory Card", text: "Cocokkan pasangan kartu hewan. Jumlah kartu bertambah setiap kali satu level selesai." },
+    ],
+    decisions: [
+      { title: "Daftar tertutup, bukan pencarian bebas", text: "Video disimpan di satu file data dan pencarian hanya mencari di dalamnya, sehingga anak tidak bisa keluar dari daftar pilihan." },
+      { title: "Tanpa API key", text: "Video diputar lewat YouTube embed mode privasi tanpa rekomendasi di akhir tayangan, jadi website bisa di-hosting statis." },
+      { title: "Ilustrasi dari kode", text: "Logo, ikon, hewan, dan gambar game dibuat sebagai SVG, sehingga ringan dan tetap tajam di layar apa pun." },
+    ],
+  },
 ];

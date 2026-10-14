@@ -14,6 +14,7 @@ Website portofolio UI/UX dan web development.
 | CHIBBO | [binaralifpra.github.io/CHIBBO](https://binaralifpra.github.io/CHIBBO/) | [CHIBBO](https://github.com/binaralifpra/CHIBBO) | |
 | Retipma | [binaralifpra.github.io/Retipma](https://binaralifpra.github.io/Retipma/) | [Retipma](https://github.com/binaralifpra/Retipma) | |
 | Rute Pahlawan | [binaralifpra.github.io/RutePahlawan](https://binaralifpra.github.io/RutePahlawan/) | [RutePahlawan](https://github.com/binaralifpra/RutePahlawan) | [Figma prototype](https://www.figma.com/proto/nTVPL2HFLlJvqN6cHTKR14/MyWeb---Runner-Surabaya?node-id=3-4&p=f&t=TiL6eSv9WeDRTL0b-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A4) |
+| Milky Wilky | [binaralifpra.github.io/MilkyWilky](https://binaralifpra.github.io/MilkyWilky/) | [MilkyWilky](https://github.com/binaralifpra/MilkyWilky) | [Figma prototype](https://www.figma.com/proto/V9D3dfGggWe2jFiDvkLF0K/MilkyWilky-Grid?node-id=22-67&p=f&t=PjtbARYlvaP2XbUc-0&scaling=contain&content-scaling=fixed&page-id=0%3A1) |
 
 ## Struktur
 
